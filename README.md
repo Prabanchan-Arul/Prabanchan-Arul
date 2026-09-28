@@ -88,16 +88,6 @@ Keyword-only ATS screening rejects qualified candidates over literal mismatches.
 
 ---
 
-### 🤖 AI Scraping Research Agent
-
-<a href="https://github.com/Prabanchan-Arul/AI_AGENT1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabanchan-Arul&repo=AI_AGENT1&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" />
-</a>
-
-A multi-tool **LangGraph** agent that combines web/data retrieval with tool calling to automate research workflows.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
